@@ -1,0 +1,20 @@
+body{
+	background-color: #fff;
+}
+.index_page{
+	padding: 50px 0;
+    text-align: center;
+    color: #fff;
+    background: -moz-radial-gradient(center, ellipse cover, rgba(227,71,73,1) 0%, rgba(186,27,31,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(227,71,73,1)), color-stop(100%, rgba(186,27,31,1))); /* safari4+,chrome */
+    background:-webkit-radial-gradient(center, ellipse cover, rgba(227,71,73,1) 0%, rgba(186,27,31,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-radial-gradient(center, ellipse cover, rgba(227,71,73,1) 0%, rgba(186,27,31,1) 100%); /* opera 11.10+ */
+    background: -ms-radial-gradient(center, ellipse cover, rgba(227,71,73,1) 0%, rgba(186,27,31,1) 100%); /* ie10+ */
+    background:radial-gradient(ellipse at center, rgba(227,71,73,1) 0%, rgba(186,27,31,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e34749', endColorstr='#ba1b1f',GradientType=1 ); /* ie6-9 */
+
+}
+.border_line{
+	background-color: #f0f0f0;
+	padding: 50px 0;
+}
